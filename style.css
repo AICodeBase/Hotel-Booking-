@@ -177,7 +177,7 @@ left: 5%;
     position: relative;
     min-height: 110vh;
     max-width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.85)), url(home.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.85)), url("home.jpg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
