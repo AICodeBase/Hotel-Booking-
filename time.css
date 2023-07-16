@@ -1,0 +1,11 @@
+.time {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin: 20px;
+  font-style: italic;
+}
+
+.fa-clock-o {
+  margin-right: 5px;
+}
